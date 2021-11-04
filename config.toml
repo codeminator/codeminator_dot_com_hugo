@@ -1,4 +1,4 @@
-baseURL = "http://example.com/"
+baseURL = "https://upbeat-hodgkin-0da810.netlify.app/"
 languageCode = "en-us"
 title = "Ahmed Shahin - Codeminator"
 theme = "minimal"
