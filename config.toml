@@ -59,3 +59,8 @@ googleAnalytics = ""
     url = "https://stackoverflow.com/users/1001022/ahmed-samir-shahin"
     name = "fab fa-stack-overflow"
     weight = 5
+
+[[menu.icon]]
+    url = "https://stackoverflow.com/users/1001022/ahmed-samir-shahin"
+    name = "fab fa-stack-overflow"
+    weight = 6
